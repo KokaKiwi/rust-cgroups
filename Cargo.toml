@@ -1,0 +1,11 @@
+[package]
+name = "cgroups"
+version = "0.1.0"
+authors = ["KokaKiwi <kokakiwi@kokakiwi.net>"]
+license = "MIT"
+
+[dependencies]
+log = "*"
+
+[dev-dependencies]
+env_logger = "*"
